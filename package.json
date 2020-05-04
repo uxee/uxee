@@ -3,13 +3,14 @@
   "version": "0.1.0",
   "homepage": "https://github.com/uxee/uxee",
   "keywords": ["browser", "mobile", "UX", "QA"],
+  "license": "MIT",
   "repository": {
     "url": "git@github.com:uxee/uxee.git"
   },
   "bugs": {
     "url": "https://github.com/uxee/uxee/issues"
   },
-  "private": false,
+  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
